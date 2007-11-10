@@ -2,10 +2,10 @@
 
 =Current Trends in OSes=
 
-* Virtualization of EVERYTHING (virtualized storage, virtualized, migratable process containers, scalable multiprocessor code, etc.)
-* Hot Sparing and Failover
-* ( security / fault / performance ) isolation between processes on the same machine
-* continued need to provide performance improvements via OS mechanisms (such as zero-copy network I/O and improved cache management techniques)
+  * Virtualization of EVERYTHING (virtualized storage, virtualized, migratable process containers, scalable multiprocessor code, etc.)
+  * Hot Sparing and Failover
+  * ( security / fault / performance ) isolation between processes on the same machine
+  * continued need to provide performance improvements via OS mechanisms (such as zero-copy network I/O and improved cache management techniques)
 
 = What an OS and Exokernel Do = 
 
