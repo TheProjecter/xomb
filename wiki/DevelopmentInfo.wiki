@@ -1,0 +1,13 @@
+#summary XOmB, libOS, and PaGanOS development links
+
+We are using subversion as our version tracking, the code can be checked out via http://xomb.googlecode.com/svn .  We also have a development server to minimize the time spent getting a build environment working (contact someone for an account).  Since XOmB is x86_64 many of us would have to use a D cross compiler to produce 64bit code from a 32bit environment, *however* if you would like to develop locally feel free to use the links below to establish your build environment.
+
+== Build Tools ==
+You'll need a number of tools to build locally including:
+
+  * [http://subversion.tigris.org SVN] - for accessing and contributing code
+  * [http://www.digitalmars.com/d The D compiler] - the D compiler for compiling and building the code
+  * [http://bochs.sourceforge.net/ Bochs] or [http://fabrice.bellard.free.fr/qemu/ QEMU]  for testing, though bochs is recommended.
+
+
+If you're on a 32 bit machine you'll need to build a cross compiler instead of just the native D compiler.  Information on how to do this can be found here: [http://www.osdev.org/osfaq2/index.php/GCC%20Cross-Compiler  Cross Compiling Guide].
