@@ -39,34 +39,35 @@ void handle_faults(idt.interrupt_stack* ir_stack)
 	{
 		kprintfln("Error due to page not present!");
 	
-	if((ir_stack.err_code & 2) != 0)
-	{
-		kprintfln("Error due to write fault.");
-	}
-	else
-	{
-		kprintfln("Error due to read fault.");
-	}
-	
-	if((ir_stack.err_code & 4) != 0)
-	{
-		kprintfln("Error occurred in usermode.");
-		// In this case we need to send a signal to the libOS handler
-	}
-	else
-	{
-		kprintfln("Error occurred in supervised mode.");
-		// In this case we're super concerned and need to handle the fault
-	}
-	
-	if((ir_stack.err_code & 8) != 0)
-	{
-		kprintfln("Tried to read from a reserved field in PTE!");
-	}
-	
-	if((ir_stack.err_code & 16) != 0)
-	{
-		kprintfln("Instruction fetch error!");
+		if((ir_stack.err_code & 2) != 0)
+		{
+			kprintfln("Error due to write fault.");
+		}
+		else
+		{
+			kprintfln("Error due to read fault.");
+		}
+		
+		if((ir_stack.err_code & 4) != 0)
+		{
+			kprintfln("Error occurred in usermode.");
+			// In this case we need to send a signal to the libOS handler
+		}
+		else
+		{
+			kprintfln("Error occurred in supervised mode.");
+			// In this case we're super concerned and need to handle the fault
+		}
+		
+		if((ir_stack.err_code & 8) != 0)
+		{
+			kprintfln("Tried to read from a reserved field in PTE!");
+		}
+		
+		if((ir_stack.err_code & 16) != 0)
+		{
+			kprintfln("Instruction fetch error!");
+		}
 	}
 }
  
