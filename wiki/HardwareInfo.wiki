@@ -1,0 +1,5 @@
+#summary Specific hardware information and links
+
+  * [http://www.x86-64.org/documentation/abi-0.98.pdf AMD ABI]
+  * [http://www.amd.com/us-en/Processors/DevelopWithAMD/0,,30_2252_875_7044,00.html AMD x64 guides]
+  * [http://www.intel.com/products/processor/manuals/index.htm Intel's Guides]
