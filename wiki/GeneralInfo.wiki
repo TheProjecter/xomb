@@ -3,3 +3,6 @@
   * [http://www.acm.uiuc.edu/sigops/ Special Interest Group for Operating Systems]
   * [http://www.gnu.org/software/grub/manual/grub.html GRUB (our bootloader and springboard)]
   * [http://lxr.linux.no/blurb.html Linux source code (great resource)]
+  * [http://www.jegerlehner.ch/intel/IntelCodeTable.pdf Understanding Intel assembly syntax]
+  * [http://sourceware.org/binutils/docs-2.17/as/index.html Understanding GNU (AT&T-style) assembly syntax]
+  * [http://en.wikipedia.org/wiki/X86_assembly_language#External_links Wikipedia entry with links to the Intel x86 manuals and free, online books]
