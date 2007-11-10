@@ -1,4 +1,4 @@
-#summary One-Library page for all of the docs and links that we have accumulated.
+#summary Library page for all of the docs and links that we have accumulated.
 
 = Introduction =
 
