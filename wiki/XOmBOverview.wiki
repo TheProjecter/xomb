@@ -8,6 +8,8 @@ XOmB is the name for the exokernel project currently in the works by students at
 
 The kernel will be an exokernel supporting multiprocessor x86-64 PCs, for which many libOS extensions will be developed.  Read WhyAnExokernel for a compelling justification of why the whole world is uneasy with the current state of OSes, and how exokernels are the logical way to provide everything that everyone everywhere claims they want :)
 
+The XOmB exokernel is being written in the [http://www.digitalmars.com/d D programming language] and will be forward thinking to give a "fresh start" to the OS scene.  This will allow for the removal from a lot of the legacy crap that limits current OSes.
+
 = Learning More =
 
 Here is an index of relevant links to learn more about the project:
