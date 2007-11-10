@@ -1,4 +1,4 @@
-#XOmB Overview
+#summary XOmB overview page (you should probably start here).
 
 = Introduction =
 
