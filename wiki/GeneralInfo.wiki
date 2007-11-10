@@ -1,0 +1,5 @@
+#summary General information about OSes and OS development.
+
+  * [http://www.acm.uiuc.edu/sigops/ Special Interest Group for Operating Systems]
+  * [http://www.gnu.org/software/grub/manual/grub.html GRUB (our bootloader and springboard)]
+  * [http://lxr.linux.no/blurb.html Linux source code (great resource)]
