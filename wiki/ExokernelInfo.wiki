@@ -1,6 +1,6 @@
 #summary General information and links on exokernels
 
-  *[http://pdos.csail.mit.edu/exo/theses/engler/thesis.ps PHD Thesis on Exokernels]
-  *[http://pdos.csail.mit.edu/exo/theses/benjie/meng.ps PHD Thesis on Multi-processor Exokernels]
-  *[http://pdos.csail.mit.edu/6.828/2007/readings/engler95exokernel.pdf Yet another paper on Exokernels]
-  *[http://en.wikipedia.org/wiki/Exokernel Wikipedia article on Exokernels]
+  * [http://pdos.csail.mit.edu/exo/theses/engler/thesis.ps PHD Thesis on Exokernels]
+  * [http://pdos.csail.mit.edu/exo/theses/benjie/meng.ps PHD Thesis on Multi-processor Exokernels]
+  * [http://pdos.csail.mit.edu/6.828/2007/readings/engler95exokernel.pdf Yet another paper on Exokernels]
+  * [http://en.wikipedia.org/wiki/Exokernel Wikipedia article on Exokernels]
