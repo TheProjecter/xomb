@@ -1,0 +1,6 @@
+= Introduction =
+
+XOmB is the name for the exokernel project currently in the works by students at the University of Pittsburgh.  For more information on what exokernels do, and what they're for, see our list of links below.  The overall project extends beyond the XOmB kernel however, and includes libOSes as well as other applications that include our team's "flavor" of XOmB, which we're dubbing PaGanOS.
+
+
+= Details =
