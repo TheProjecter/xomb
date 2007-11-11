@@ -1,0 +1,27 @@
+#summary A vague list of steps.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+   * test kgdb serial debugging (and allow kernel to process interrupts after gdb gets a shake)
+   * create an environment (process) concept for the exokernel
+   * create page table abstractions + API
+   * HiMem (Upper Cannonical Half) kernel
+   * memory management for kernel?
+   * use SYSCALL/SYSRET
+   * execute an ELF64 multiboot module as a user space environment
+   * bare bones LibOS
+   *
+   * flesh out syscall interface
+   * init program / basic app. libs
+   * Vitual Memory exokernel interface
+   * interrupt inferface
+   * scheduler interface
+   * Filesystem (+ device) libos
+   * userspace program loader
+   * APIC / multiprocessor support
+   * security scheme
