@@ -1,5 +1,11 @@
 #summary General information and links on exokernels
 
+  * [http://pdos.csail.mit.edu/exo/theses/index.html all the MIT theses] 
+  * [http://pdos.csail.mit.edu/PDOS-papers.html all the MIT papers] Goto setion 'Exokernels'
+  * [http://pdos.csail.mit.edu/exo/exo-internals/internals.html The XOK internals guide]
+
+Select readings
+
   * [http://pdos.csail.mit.edu/exo/theses/engler/thesis.ps PHD Thesis on Exokernels]
   * [http://pdos.csail.mit.edu/exo/theses/benjie/meng.ps PHD Thesis on Multi-processor Exokernels]
   * [http://pdos.csail.mit.edu/6.828/2007/readings/engler95exokernel.pdf Yet another paper on Exokernels]
