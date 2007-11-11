@@ -1,4 +1,5 @@
 #summary XOmB overview page (you should probably start here).
+#labels Featured,Phase-Implementation,Phase-Design
 
 = Introduction =
 
