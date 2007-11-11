@@ -17,6 +17,7 @@ Add your content here.
    * Integrated package manager that understands multiple versions of LibOSes (for different, workload-specific tradeoffs) and our security scheme
    * principle of least privilege exposed at all levels
    * new crypto-based security capabilites integrated at all levels, kprivd
+   * tools for managing composable LibOSes that we want to link a specific/all executables against
 
 ==Proposed LibOS Features==
 General Categories of LibOSes:
