@@ -12,12 +12,14 @@ Add your content here.
    * when we must do something on the user's behalf, provide mechanism not policy
    * capability-based security
    * tickless scheduling
+   * kgdb support
 
 ==Proposed PaGanOS (the rest of the OS, that sits on top of XOmB) Features==
    * Integrated package manager that understands multiple versions of LibOSes (for different, workload-specific tradeoffs) and our security scheme
    * principle of least privilege exposed at all levels
    * new crypto-based security capabilites integrated at all levels, kprivd
    * tools for managing composable LibOSes that we want to link a specific/all executables against
+   * DTrace suppport: [http://sendreceivereply.wordpress.com/2007/11/08/i-trace-you-trace-what-about-dtrace/ if they can put it in a microkernel without modifying The Kernel], we can too!
 
 ==Proposed LibOS Features==
 General Categories of LibOSes:
