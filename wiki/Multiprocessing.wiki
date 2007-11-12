@@ -1,0 +1,10 @@
+#summary Things specific to accessing multicore hardware and writing concurrent software
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+   * [http://citeseer.ist.psu.edu/massalin91lockfree.html The Lockfree Multiprocessor OS] - grab from the linksies on the right.
+   * [http://www.cs.toronto.edu/~tomhart/papers/hart_ipdps06.pdf Fast lockless synchonization]
