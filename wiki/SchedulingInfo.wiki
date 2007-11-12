@@ -8,6 +8,7 @@
    * Get the code for the original XOK from [http://pdos.csail.mit.edu/exo/distrib.html]
 
 ==Prerequisites==
-Something to schedule
+   * Something to schedule: processes or XOK's same-but-not enviroments.
+   * for Preemptive scheduling, one needs a timer device and the ability to set and respond to timing interrupts.
 
 ==Discussion==
