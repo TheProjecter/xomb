@@ -12,3 +12,10 @@
    * for Preemptive scheduling, one needs a timer device and the ability to set and respond to timing interrupts.
 
 ==Discussion==
+We don't have to follow the same path as XOK, so lets figure out what they did and then what we want to do, using the Scheduler Activations paper as a starting point (or using the Design and Implementation of 4.4 BSD book as a starting point if you want to get really into it).
+
+===XOK vs Activations===
+   * Unlike most OSes, we do not believe an exokernel performs blocking operations, this should greatly simplify the Activation interactions.
+   * Activations solve an M to N mapping for threads to processors, but the original XOK was single threaded.  The way that multiprocessor XOK was implemented was to give all processors to all processes, rather than Activation's idea of dynamically scaling the number of CPUs
+
+===Want we what to DO===
