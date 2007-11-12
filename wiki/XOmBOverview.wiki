@@ -3,7 +3,7 @@
 
 = Introduction =
 
-XOmB [zom-bee] is the name for the exokernel project currently in the works by students at the University of Pittsburgh.  The overall project extends beyond the XOmB kernel however, and includes libOSes as well as other applications that include our team's "flavor" of XOmB, which we're dubbing PaGanOS.
+XOmB [zom-bee] is the name for the exokernel project currently in the works by students at the University of Pittsburgh.  The overall project extends beyond the XOmB kernel however, and includes libOSes as well as other applications that form our team's "flavor" of XOmB, which we're dubbing PaGanOS.
 
 = Details =
 
