@@ -1,0 +1,17 @@
+#summary all of the 'magic' processes we feel will be needed for a full fledged OS.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+   * initd
+
+   * arpd
+
+   * privileged
+
+   * linkloaderd?
+
+   * kpr0nd
