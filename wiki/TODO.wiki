@@ -1,11 +1,6 @@
 #summary A vague list of steps.
+#labels Phase-Design,Phase-QA
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
 
    * test kgdb serial debugging (and allow kernel to process interrupts after gdb gets a shake)
    * create an environment (process) concept for the exokernel
