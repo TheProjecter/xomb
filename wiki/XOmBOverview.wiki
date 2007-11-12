@@ -37,4 +37,4 @@ Here is an index of relevant links to learn more about the project:
   * 
 
 ==== PaGanOS Info ====
-  * PaGanOSdaemons - userland support programs that we feel will be needed for a full-blown system
+  * PaGanOsDaemons - userland support programs that we feel will be needed for a full-blown system
