@@ -1,4 +1,13 @@
 #summary Scheduling information and links
 
+==Citations==
   * [http://www.cs.huji.ac.il/~dants/papers/Cheat07Security.pdf Cheat: monopolizing the CPU without superuser privs] - Cool paper about scheduling and h4x
-  * [http://people.freebsd.org/~deischen/docs/p95-anderson.pdf Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism] - This is the basis for the XOK exokernel's scheduling.
+  * [http://people.freebsd.org/~deischen/docs/p95-anderson.pdf Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism] - This is the basis for the XOK exokernel's scheduling, although t
+
+==Relevant ExoPC code==
+   * Get the code for the original XOK from [http://pdos.csail.mit.edu/exo/distrib.html]
+
+==Prerequisites==
+Something to schedule
+
+==Discussion==
