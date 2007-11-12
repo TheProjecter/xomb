@@ -1,0 +1,17 @@
+#summary all of the 'magic' processes we feel will be needed for a full fledged OS.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+   * initd
+
+   * arpd
+
+   * privileged
+
+   * linkloaderd?
+
+   * metadatad - I think we can securely multiplex storage, while maintaining speedy IO by using a server to protect only metadata.
