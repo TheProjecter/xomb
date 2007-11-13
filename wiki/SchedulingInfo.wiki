@@ -1,4 +1,5 @@
 #summary Scheduling information and links
+#labels Featured,Phase-Design
 
 ==Citations==
   * [http://www.cs.huji.ac.il/~dants/papers/Cheat07Security.pdf Cheat: monopolizing the CPU without superuser privs] - Cool paper about scheduling and h4x
