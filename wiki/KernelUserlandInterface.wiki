@@ -1,0 +1,11 @@
+#summary Syscalls and safe kernel modules.
+
+= Introduction =
+
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * [http://www.usenix.org/publications/library/proceedings/osdi96/necula.html Downloading Code into the Kernel Safely] it uses code that carries a proof of its own safety.
