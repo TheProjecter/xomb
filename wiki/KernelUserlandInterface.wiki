@@ -5,7 +5,6 @@
 Add your content here.
 
 
-= Details =
-
-Add your content here.  Format your content with:
-  * [http://www.usenix.org/publications/library/proceedings/osdi96/necula.html Downloading Code into the Kernel Safely] it uses code that carries a proof of its own safety.
+= Cool ideas? =
+   * [http://www.usenix.org/publications/library/proceedings/osdi96/necula.html Downloading Code into the Kernel Safely] it uses code that carries a proof of its own safety.
+   * [http://www.usenix.org/publications/library/proceedings/usenix99/banga.html A Scalable and Explicit Event Delivery Mechanism for UNIX]  this might be a useful paradigm.
