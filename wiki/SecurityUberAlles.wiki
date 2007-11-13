@@ -1,0 +1,15 @@
+#summary We need security thingys.
+#labels Featured,Phase-Requirements,Phase-Design
+
+= Introduction =
+
+We need some good Ideas.  Fortunately using D over C will help eliminate some buffer overflow-type issues, but that is just better programming practice, we need better design, too.
+
+= Finding Good Papers =
+   * [http://www.usenix.org/publications/library/proceedings/best_papers.html The list of all papers to win "Best Paper" at a USENIX conference.]  I'd start here.
+   * I (wolfwood) also have the Addison Wesley "Designing Secure Software" book, and some books about securing your system, if anyone wants to look for ideas.
+   * There are some good links at the bottom of [http://en.wikipedia.org/wiki/Secure_by_design Secure By Design on wikipedia]
+   * OpenBSD discusses [http://www.openbsd.org/security.html security] and [http://www.openbsd.org/crypto.html crypto].  actually, just like XOK, if we want to steal a POSIX LibOS, OpenBSD is probably the place to do it from.
+   * [http://msdn.microsoft.com/msdnmag/issues/06/09/SecureByDesign/default.aspx Secure By Design from MSDN :)]
+
+==Ideas==
