@@ -1,0 +1,9 @@
+#summary How to manage the gaggle of LibOSes at runtime and throughout development.
+
+= Introduction =
+
+Wen need to manage a whole slop of code.
+
+
+= References =
+  * [http://www.usenix.org/publications/library/proceedings/ana97/banerji.html Protected Shared Libraries-A New Approach to Modularity and Sharing]
