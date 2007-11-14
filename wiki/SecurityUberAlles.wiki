@@ -12,4 +12,9 @@ We need some good Ideas.  Fortunately using D over C will help eliminate some bu
    * OpenBSD discusses [http://www.openbsd.org/security.html security] and [http://www.openbsd.org/crypto.html crypto].  actually, just like XOK, if we want to steal a POSIX LibOS, OpenBSD is probably the place to do it from.
    * [http://msdn.microsoft.com/msdnmag/issues/06/09/SecureByDesign/default.aspx Secure By Design from MSDN :)]
 
+
+==Papers==
+   * [http://www.usenix.org/publications/library/proceedings/sec02/cox.html Securinty in the awesome Plan 9 OS]
+   * [http://www.usenix.org/publications/library/proceedings/osdi2000/engler.html Ensuring Correctness with MetaCompilation]
+
 ==Ideas==
