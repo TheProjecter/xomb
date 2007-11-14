@@ -1,14 +1,12 @@
-#summary One-sentence summary of this page.
+#summary Information about how we want to implement the environments
 #labels Featured,Phase-Design,Phase-Implementation
 
 = Introduction =
 
-Add your content here.
+All processes in XOmB will utilize the idea of an environment.  An environment is essentially a page in memory (4k in size) that contains the basic elements essential to that process:
+  * Timeline - the virtual timeline presented to the process by the scheduler
+  * Pointer to relevant [PrologueAndEpilogue prologue and epilogue code].
+  * Space for context switching needs (since all processes will effectively switch themselves out)
 
 
 = Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
