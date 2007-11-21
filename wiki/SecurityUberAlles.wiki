@@ -17,4 +17,6 @@ We need some good Ideas.  Fortunately using D over C will help eliminate some bu
    * [http://www.usenix.org/publications/library/proceedings/sec02/cox.html Securinty in the awesome Plan 9 OS]
    * [http://www.usenix.org/publications/library/proceedings/osdi2000/engler.html Ensuring Correctness with MetaCompilation]
 
+   * [http://it.slashdot.org/article.pl?sid=07/11/20/1914209&from=rss Maybe hashes ARE a bad idea]
+
 ==Ideas==
