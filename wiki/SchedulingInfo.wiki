@@ -1,11 +1,12 @@
 #summary Scheduling information and links
 #labels Featured,Phase-Design
 
-==Citations==
+==Scheduling Citations==
   * [http://www.cs.huji.ac.il/~dants/papers/Cheat07Security.pdf Cheat: monopolizing the CPU without superuser privs] - Cool paper about scheduling and h4x
   * [http://people.freebsd.org/~deischen/docs/p95-anderson.pdf Scheduler Activations: Effective Kernel Support for the User-Level Management of Parallelism] - This is the basis for the XOK exokernel's scheduling, although they used a simplified version.
 
-   * [http://www.walfield.org/papers/20050706-walfield-resource-scheduling.pdf free-market resource scheduling in GNU Hurd]  I think that market-based scheduling is the ultimate way to handle the interdepencies of resource allocation (e.g. when thrashing, CPU, disk and memory allocations are all related).  Markets should also encourage better programming (like, if you want your code to run fast you should also limit memory bloat).  If nothing else, we can steal this paper's citations.
+===Market-foo===
+   * [http://www.walfield.org/papers/20050706-walfield-resource-scheduling.pdf free-market resource scheduling in GNU Hurd]  I think that market-based scheduling is the ultimate way to handle the interdepencies of resource allocation (e.g. when thrashing, CPU, disk and memory allocations are all related).  Markets provide a sensible representation of power management trade-offs.  Markets should also encourage better programming (like, if you want your code to run fast you should also limit memory bloat).  If nothing else, we can steal this paper's citations.
    * [http://citeseer.ist.psu.edu/45731.html Market mechanisms in a programmed system] again, if nothing else, Citeseer list some promising citations.
 
 ==Relevant ExoPC code==
