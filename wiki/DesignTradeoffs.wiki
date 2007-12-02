@@ -1,0 +1,20 @@
+#summary How to decide on tradeoffs, and a list of decisions we've made.
+
+= Introduction =
+
+Add your content here.
+
+
+= Links =
+   * [http://en.wikipedia.org/wiki/Worse_is_better Worse is Better]  a wikipedia page about the Worse is Better (New Jersey) design philosophy
+.
+
+= Tradeoffs =
+   * *x64, no legacy*
+
+
+   * *bitmap page allocator* vs linked-list free-map or crazy trie/b+tree foo.
+
+   * *no drivers in XOmB*
+
+  * *Batch syscalls vs. register syscalls*
