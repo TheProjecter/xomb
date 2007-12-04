@@ -25,3 +25,12 @@ We don't have to follow the same path as XOK, so lets figure out what they did a
 
 ===Want we what to DO===
 At the most basic level, XOmB understands quantum.  These quantum can be expressed in the form of a timeline, that scheduler libOSes can request quantum from.  LibOSes can either collaborate on scheduling, or each [EnvironmentInfo environment] can contain its own scheduler.  Each scheduler requests a quantum or number of quanta from XOmB, which it delegates by giving quantum to the schedulers in some sort of fair manner.  The schedulers are then free to break up those quanta in any way they see fit.  Though XOmB does not ensure that each process gets its fair share of the CPU, by providing the schedulers time in a fair manner life is good.  There is still no consensus as to the best method of providing quanta to the scheduler.
+
+
+= Proposal =
+Market-based scheduling.  Each environment provides a vector of bids, i.e. how much it is willing to pay for each time slot.  The winner can be the high bid, second highest bid (a trick to keep everyone honest), or lottery scheduled where you bid is also the number of tickets you get.
+
+Processes can reschedule at any time, periodic scheduling should be a part of a LibOS's prologue or epilogue stub.
+
+Credits are refreshed periodically and remaining balances are 'decayed' or experience inflation to discourage hoarding, This should effectively enforce a cap to the number of credits it is possible to accumulate. 
+
