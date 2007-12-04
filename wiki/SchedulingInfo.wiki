@@ -16,6 +16,13 @@
    * Something to schedule: processes or XOK's same-but-not enviroments.
    * for Preemptive scheduling, one needs a timer device and the ability to set and respond to timing interrupts.
 
+
+= Scheduling Questions =
+  *  how is general computation tim fairly divided?
+  *  how is interrupt handling scheduled?
+  *  how are events (request to run at a specific? future time) handled?
+
+
 ==Discussion==
 We don't have to follow the same path as XOK, so lets figure out what they did and then what we want to do, using the Scheduler Activations paper as a starting point (or using the Design and Implementation of 4.4 BSD book as a starting point if you want to get really into it).
 
@@ -34,3 +41,4 @@ Processes can reschedule at any time, periodic scheduling should be a part of a 
 
 Credits are refreshed periodically and remaining balances are 'decayed' or experience inflation to discourage hoarding, This should effectively enforce a cap to the number of credits it is possible to accumulate. 
 
+Interrupts are billed at the going rate, provided they take longer than some minimum time. 
