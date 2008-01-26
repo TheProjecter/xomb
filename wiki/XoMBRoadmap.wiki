@@ -1,0 +1,22 @@
+#summary Project Roadmap for XOmB
+
+= Current Workings =
+
+  * Sysret
+  * Heap Memory Allocator
+  * Page faults + Intarrupts
+
+
+= Future Workings =
+
+  * Environments
+  * User programs / LibOS for testing
+  * Page Table Stuffs
+  * Scheduling
+  * LibOS
+  * APIC + Multi-processing
+
+= Long Term =
+
+  * Network
+  * Storage
