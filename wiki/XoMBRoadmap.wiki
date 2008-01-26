@@ -11,7 +11,7 @@
 
   * Environments
   * User programs / LibOS for testing
-  * Page Table [no swap]
+  * Page Table - Swap
   * Scheduling
   * LibOS
   * APIC + Multi-processing
