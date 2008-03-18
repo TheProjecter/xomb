@@ -2,14 +2,12 @@
 
 = Current Workings =
 
-  * Sysret
-  * Heap Memory Allocator
   * Page faults + Intarrupts
-
+  * Syscalls
+  * Environments
 
 = Future Workings =
 
-  * Environments
   * User programs / LibOS for testing
   * Page Table - Swap
   * Scheduling
