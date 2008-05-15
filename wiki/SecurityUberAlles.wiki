@@ -20,3 +20,4 @@ We need some good Ideas.  Fortunately using D over C will help eliminate some bu
    * [http://it.slashdot.org/article.pl?sid=07/11/20/1914209&from=rss Maybe hashes ARE a bad idea]
 
 ==Ideas==
+   * [http://www.schneier.com/essay-148.html Why we need to be careful with paging to disk!]
