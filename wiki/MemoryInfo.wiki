@@ -1,3 +1,4 @@
 #summary Memory information and links
 
   * [http://lwn.net/Articles/250967/ What everyone should know about memory]
+  * [http://www.nondot.org/sabre/os/files/Misc/BSD_VM/index.html Design elements of the FreeBSD VM subsystem]
