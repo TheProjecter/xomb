@@ -1,6 +1,9 @@
 #summary Project Roadmap for XOmB
 
 == TODO ==
+  * lock-free/synchronization primitives FTW
+  * make existing stuff (memory allocator) Multi-threaded safe
+
   * Map bios region (FFFFFFFF - 16MB) for HPET
 
   * deallocate page function
