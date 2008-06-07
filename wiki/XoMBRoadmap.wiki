@@ -1,6 +1,6 @@
 #summary Project Roadmap for XOmB
 
-- TODO -
+== TODO ==
   * Map bios region (FFFFFFFF - 16MB) for HPET
 
   * deallocate page function
