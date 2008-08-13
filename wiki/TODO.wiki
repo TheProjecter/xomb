@@ -1,18 +1,24 @@
-#summary A vague list of steps.
+#summary A current list of stuff that should be done
 #labels Phase-Design,Phase-QA
 
-
-   * test kgdb serial debugging (and allow kernel to process interrupts after gdb gets a shake)
+==Current Tasks==
+   * MP-sanctify the kernel and vga driver
    * create an environment (process) concept for the exokernel
-   * memory management for kernel?
-   * execute an ELF64 multiboot module as a user space environment
-   * bare bones LibOS
-   * init program / basic app. libs
-   * Vitual Memory exokernel interface
-   * interrupt inferface
-   * scheduler interface
-   * Filesystem (+ device) libos
-   * userspace program loader
+   * Timers
    * APIC / multiprocessor support
    * Multiprocessor startup, IPI
+
+==Design==
+   * test kgdb serial debugging (and allow kernel to process interrupts after gdb gets a shake)
+   * memory management for kernel?
+   * execute an ELF64 multiboot module as a user space environment
+   * Vitual Memory exokernel interface
+   * interrupt inferface (MP)
+   * scheduler interface
    * security scheme
+
+==LibOS==
+   * userspace program loader
+   * bare bones LibOS
+   * init program / basic app. libs
+   * Filesystem (+ device) libos
