@@ -3,7 +3,7 @@
 
 ==Current Tasks==
    * MP-sanctify the kernel and vga driver
-       *vga, pmem, and vmem are locked
+       * vga, pmem, and vmem are locked
    * create an environment (process) concept for the exokernel
    * Timers
    * APIC / multiprocessor support
