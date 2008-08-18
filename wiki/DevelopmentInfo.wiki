@@ -8,6 +8,7 @@ You'll need a number of tools to build locally including:
   * [http://subversion.tigris.org SVN] - for accessing and contributing code
   * [http://www.digitalmars.com/d The D compiler] - the D compiler for compiling and building the code
   * [http://bochs.sourceforge.net/ Bochs] or [http://fabrice.bellard.free.fr/qemu/ QEMU]  for testing, though bochs is recommended.
+    * If you are using Bochs, compile it with the information contained in 'xomb/doc/bochs-install.txt' from svn
 
 
 If you're on a 32 bit machine you'll need to build a cross compiler instead of just the native D compiler.  Information on how to do this can be found here: [http://www.osdev.org/osfaq2/index.php/GCC%20Cross-Compiler  Cross Compiling Guide].
