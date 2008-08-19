@@ -6,12 +6,14 @@
        * vga, pmem, and vmem are locked
    * create an environment (process) concept for the exokernel
    * Timers
+   * memory management for kernel (where do we link in RAM and devices)
+   * video memory region?
    * APIC / multiprocessor support
    * Multiprocessor startup, IPI
+   * investigate real world issues
 
 ==Design==
    * test kgdb serial debugging (and allow kernel to process interrupts after gdb gets a shake)
-   * memory management for kernel?
    * execute an ELF64 multiboot module as a user space environment
    * Vitual Memory exokernel interface
    * interrupt inferface (MP)
