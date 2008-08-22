@@ -2,15 +2,16 @@
 #labels Phase-Design,Phase-QA
 
 ==Current Tasks==
+   (In order of what needs done first)
+   * APIC / multiprocessor support
+   * IPI
    * MP-sanctify the kernel and vga driver
-       * vga, pmem, and vmem are locked
-   * create an environment (process) concept for the exokernel
+       - vga, pmem, and vmem are locked
    * Timers
    * memory management for kernel (where do we link in RAM and devices)
    * video memory region?
-   * APIC / multiprocessor support
-   * Multiprocessor startup, IPI
    * investigate real world issues
+   * create an environment (process) concept for the exokernel
 
 ==Design==
    * test kgdb serial debugging (and allow kernel to process interrupts after gdb gets a shake)
