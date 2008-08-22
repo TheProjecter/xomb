@@ -2,7 +2,7 @@
 #labels Phase-Design,Phase-QA
 
 ==Current Tasks==
-   (In order of what needs done first)
+*(In order of what needs done first)*
    * APIC / multiprocessor support
    * IPI
    * MP-sanctify the kernel and vga driver
