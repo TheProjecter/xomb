@@ -6,7 +6,7 @@
    * APIC / multiprocessor support
    * IPI
    * MP-sanctify the kernel and vga driver
-       - vga, pmem, and vmem are locked
+       * vga, pmem, and vmem are locked
    * Timers
    * memory management for kernel (where do we link in RAM and devices)
    * video memory region?
