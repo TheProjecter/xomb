@@ -1,0 +1,7 @@
+#summary Information on the IO APIC / HPET stuff being worked on.
+
+
+
+= Aug. 27 =
+
+http://kernel-space.blogspot.com/search?updated-min=2008-01-01T00%3A00%3A00%2B05%3A30&updated-max=2009-01-01T00%3A00%3A00%2B05%3A30&max-results=5
