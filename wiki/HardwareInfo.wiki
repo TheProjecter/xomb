@@ -4,5 +4,5 @@
   * [http://www.amd.com/us-en/Processors/DevelopWithAMD/0,,30_2252_875_7044,00.html AMD x64 guides]
   * [http://www.intel.com/products/processor/manuals/index.htm Intel's Guides]
 
-  * [http://www.intel.com/Products/Desktop/Chipsets/G33/G33-technicaldocuments.htm] the G33  chipset used by the new XOmB box
-  * [http://processorfinder.intel.com/details.aspx?sSpec=SLAWE] Our Q9300 processor
+  * [http://www.intel.com/Products/Desktop/Chipsets/G33/G33-technicaldocuments.htm the G33  chipset used by the new XOmB box]
+  * [http://processorfinder.intel.com/details.aspx?sSpec=SLAWE Our Q9300 processor]
