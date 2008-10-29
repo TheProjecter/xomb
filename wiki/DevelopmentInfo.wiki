@@ -6,6 +6,9 @@ We are using subversion as our version tracking, the code can be checked out via
 You'll need a number of tools to build locally including:
 
   * [http://subversion.tigris.org SVN] - for accessing and contributing code
+    * [http://www.onlamp.com/pub/a/onlamp/2004/08/19/subversiontips.html svn tips]
+    * [http://svnbook.red-bean.com/en/1.0/ch07s02.html SVN properties] - these are the tags you can insert in code (Id, revision, etc)
+    * add something about SVN tags and branches
   * [http://www.digitalmars.com/d The D compiler] - the D compiler for compiling and building the code
   * [http://bochs.sourceforge.net/ Bochs] or [http://fabrice.bellard.free.fr/qemu/ QEMU]  for testing, though bochs is recommended.
     * If you are using Bochs, compile it with the information contained in 'xomb/doc/bochs-install.txt' from svn
